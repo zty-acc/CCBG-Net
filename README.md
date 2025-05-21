@@ -43,7 +43,7 @@ python test.py --dataset_root ./dataset/Crack760
 
 
 ### 🔹 **Results on Crack500 Challenge Testing Images**
-![CSRD-Medium Image 1](imgs/Craack500.jpg)
+![CSRD-Medium Image 1](imgs/craack500.jpg)
 
 
 ### 🔹 **Results on Crack760 Challenge Testing Images**
