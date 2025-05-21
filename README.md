@@ -6,7 +6,6 @@
 >
 > ##  Download Datasets and Pretrained Models
 
-Download our  model weights from Baidu Cloud Disk:
 
 🔗**Link**:  https://pan.baidu.com/s/1_0UjyPPRgq_usnffdiyQnQ?pwd=SD7Y 提取码: SD7Y
 
