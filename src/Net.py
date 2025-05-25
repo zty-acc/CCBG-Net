@@ -154,7 +154,6 @@ class HHFM(nn.Module):
         mrf_e = self.mr_bottle(mrf)
         lrf_e = self.lr_bottle(lrf)
         weight = self.weight_evauation(self.se(torch.cat([srf_e,mrf_e,lrf_e],dim=1)))
-        weight = F.softmax(weight, dim=1)
         
         srf_e = srf_e * weight[:, 0, :, :].unsqueeze(1)
         mrf_e = mrf_e * weight[:, 1, :, :].unsqueeze(1)
