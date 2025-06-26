@@ -39,14 +39,14 @@ python test.py --dataset_root ./dataset/Crack760
 ## 📸 Qualitative Results
 
 ### 🔹 **Results on DeepCrack Challenge Testing Images**
-![CSRD-Easy Image 1](imgs/deepcrack.jpg)
+![Image 1](imgs/deepcrack.jpg)
 
 
 ### 🔹 **Results on Crack500 Challenge Testing Images**
-![CSRD-Medium Image 1](imgs/crack500.jpg)
+![Image 2](imgs/crack500.jpg)
 
 
 ### 🔹 **Results on Crack760 Challenge Testing Images**
-![CSRD-Hard Image 1](imgs/Craack760.jpg)
+![Image 3](imgs/craack760.jpg)
 
 
